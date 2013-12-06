@@ -1,5 +1,5 @@
 <?php
-include('src/PrecioFuel.php');
+include('src/preciosfuel.php');
 
 $fuel = new PreciosFuel();
 
